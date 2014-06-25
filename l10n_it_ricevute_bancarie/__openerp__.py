@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
-#    
-#    Copyright (C) 2012 Andrea Cometa.
-#    Email: info@andreacometa.it
-#    Web site: http://www.andreacometa.it
-#    Copyright (C) 2012 Agile Business Group sagl (<http://www.agilebg.com>)
-#    Copyright (C) 2012 Domsense srl (<http://www.domsense.com>)
-#    Copyright (C) 2012 Associazione OpenERP Italia
-#    (<http://www.openerp-italia.org>).
+#
+#    Copyright (C) 2014 OCA (Odoo Community Association)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published
@@ -26,10 +20,10 @@
 
 {
     "name": "Ricevute Bancarie",
-    "version": "1.3",
-    "author": "OpenERP Italian Community",
+    "version": "0.1",
+    "author": "OCA (Odoo Community Association)",
     "category": "Accounting & Finance",
-    "website": "http://www.openerp-italia.org",
+    "website": "http://www.odoo-community-association.org",
     "description": """
 Gestione delle Ricevute Bancarie
 --------------------------------
