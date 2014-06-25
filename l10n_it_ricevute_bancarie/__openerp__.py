@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Copyright (C) 2014 OCA (Odoo Community Association)
+#    Copyright (C) -> see AUTHORS.txt
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published
@@ -21,9 +21,9 @@
 {
     "name": "Ricevute Bancarie",
     "version": "0.1",
-    "author": "OCA (Odoo Community Association)",
+    "author": "Andrea Cometa",
     "category": "Accounting & Finance",
-    "website": "http://www.odoo-community-association.org",
+    "website": "http://www.andreacometa.it",
     "description": """
 Gestione delle Ricevute Bancarie
 --------------------------------
